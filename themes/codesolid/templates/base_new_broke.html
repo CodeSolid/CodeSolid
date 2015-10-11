@@ -1,0 +1,123 @@
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+		<meta name="description" content="">
+		<meta name="author" content="{{ AUTHOR }}">
+
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css" />
+		{% if not FOUNDATION_PYGMENT_THEME %}
+		{% set FOUNDATION_PYGMENT_THEME = 'monokai' %}
+		{% endif %}
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygment/{{ FOUNDATION_PYGMENT_THEME }}.css" />
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/custom.css" />
+
+		{% if FOUNDATION_ALTERNATE_FONTS %}
+		<!-- GOOGLE WEB FONTS -->
+		<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Sans+Mono|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/alt-fonts.css" />
+		{% endif %}
+
+		<script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
+
+		<!-- Feeds -->
+		{% if FEED_ALL_ATOM %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+		{% endif %}
+		{% if FEED_ALL_RSS %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+		{% endif %}
+
+		{% include "analytics.html" %}
+
+		<!-- mathjax config similar to math.stackexchange -->
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			jax: ["input/TeX", "output/HTML-CSS"],
+			tex2jax: {
+				inlineMath: [ ['$', '$'] ],
+				displayMath: [ ['$$', '$$']],
+				processEscapes: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+			},
+			messageStyle: "none",
+			"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+		});
+		</script>
+		<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	</head>
+	<body>
+		<div class="off-canvas-wrap">
+			<div class="inner-wrap">
+				<!-- mobile top bar to activate nav -->
+				<nav class="tab-bar show-for-small">
+					<section class="left-small">
+						<a class="left-off-canvas-toggle menu-icon" ><span></span></a>
+					</section>
+
+					<section class="middle tab-bar-section">
+						<h1 class="title">{{ SITENAME|replace(' ', '&nbsp;') }}</h1>
+					</section>
+				</nav>
+
+				<!-- top bar nav -->
+				<nav class="top-bar hide-for-small-only" data-topbar>
+					<ul class="title-area">
+						<li class="name">
+							<h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+						</li>
+					</ul>
+
+					<section class="top-bar-section">
+						<ul class="left">
+							{% for title, link in MENUITEMS %}
+				            	<li><a href="{{ link }}">{{ title }}</a></li>
+            				{% endfor %}
+						</ul>
+                        <ul class="right">                                                                                                                                           
+                             {% for pg in PAGES | sort(attribute='index') %}                                                                                                          
+                                 {% if 'http://' in pg.url -%}                                                                                                                        
+                                     <li><a href="{{ pg.url }}">{{ pg.title }}</a></li>                                                                                               
+                                 {% else %}····                                                                                                                                       
+                                     <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>                                    
+                                 {% endif %}                                                                                                                                          
+                             {% endfor %}                                                                                                                                             
+                        </ul>  
+					</section>
+				</nav>
+
+				<!-- Main Page Content and Sidebar -->
+				<section class="main-section">
+					<div class="row">
+						
+						<!-- Main Content -->
+						<div class="medium-12 small-12 columns" role="content">
+							{% if pagetitle is defined %}
+							<div class="row">
+								<div class="small-12 columns">
+									<h2>{{ pagetitle }}</h2>
+								</div>
+							</div>
+							{% endif %}
+							{% block content %}{% endblock %}
+						</div>
+						
+						<!-- End Main Content -->
+						
+					</div>
+
+				</section>
+				<a class="exit-off-canvas"></a>
+			</div><!--off-canvas inner-->
+		</div><!--off-canvas wrap-->
+
+		<script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+		<script src="{{ SITEURL }}/theme/js/foundation.min.js"></script>
+		<script>
+			$(document).foundation();
+		</script>
+	</body>
+</html>
