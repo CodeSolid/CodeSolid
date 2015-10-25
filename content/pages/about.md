@@ -7,13 +7,13 @@ the only large-scale alternative, working for free on open source projects.  Yet
 
 The mental block is simply this:  If someone offers me a job writing software for money, I'm happy to do that.  I love writing software, and I need money for groceries and a Netflix subscription, among other things.  So software for money is no problem for me.
 
-I haven't spent a lot of time on open source projects, but I've contributed a patch here and there.  I don't really like working for free, yet strangely enough, I've worked on many personal projects, often to learn new technologies or polish existing skills.  I learned Ruby on Rails that way, and Spring, not to mention a fair bit of Python (which I'm using on the new non-Spring version of [Goalboost](/goalboost.html)).
+I haven't spent a lot of time on open source projects, but I've contributed a patch here and there.  I don't really like working for free, yet strangely enough, I've worked on many personal projects, often to learn new technologies or polish existing skills.  I learned Ruby on Rails that way, and Spring, not to mention a fair bit of Python (which I'm using on the new non-Spring version of [Goalboost](/goalboost.html)).  I do object to the fact that working for free has now become so *de rigeur* that [it's now used](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) as a criteria to see if one is good enough not to work for free.
 
-So I'll work for free as long as I'm working for myself, but when someone mentions working "for equity", immediately my spidey sense starts to tingle, and I know I am in the presense of a non-programmer capitalist trying to take advantage of me.  You know the guy:  "I have an idea, and I know lots of venture capital people".
+Also, I have no particular objection to working for free as long as I'm working for myself, but when someone mentions working "for equity", immediately my spidey sense starts to tingle, and I know I am in the presense of a non-programmer capitalist trying to take advantage of me. You know the guy: "I have an idea, and I know lots of venture capital people".
 
 ## So Here I Am...
 
-...offering you the opportunity to work for equity.  And there you are, I suspect, with your spidey sense in perfect working order.  So let me set you mind to rest with several confessions.
+...offering you the opportunity to work for equity.  And there you are, I suspect, with your spidey sense in perfect working order, and within more or less five seconds of running away from me. So let me set you mind to rest with several confessions.
 
 * I'm a fellow programmer.  I've been coding professionally for about twenty-two years.  So what do I need you for?  Friendship, another pair of hands, mutual support, that kind of stuff.
 * I don't "know lots of venture capitalist people".  I think I met one of them once, who destroyed a company I work for.  Knowing exactly one venture capitalist is actually one more venture capitalist than I ever planned on knowing or wanted to know.

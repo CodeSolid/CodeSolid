@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 AUTHOR = 'John Lockwood'
 SITENAME = 'CodeSolid'
 SITESUBTITLE = 'I make being me look easy.'
-SITEURL = ''
+#SITEURL = 'http://codesolid.com/'
 
 PATH = 'content'
 
@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
 
-MENUITEMS = [("Projects", "/category/projects.html"), ("The License", "/license"), ("Contribute", "/contribute"), ("Blog", "/blog.html")]
+MENUITEMS = [("Projects", "/category/projects.html"), ("The License", "/license.html"), ("Contribute", "/contribute.html"), ("Blog", "/blog.html")]
 
 GITHUB_URL = 'https://github.com/CodeSolid'
 TWITTER_URL = 'https://twitter.com/JohnLockwood'
