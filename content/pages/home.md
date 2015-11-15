@@ -3,7 +3,7 @@ URL:
 save_as: index.html
 
 Welcome to CodeSolid.  We are a team of SasS application developers organized as a Worker Owned
-Cooperative
+Cooperative.  
 
 <div class="row">
 <div class="large-4 medium-4 small-12 columns">    
@@ -11,10 +11,10 @@ Cooperative
     Build equity hour by hour on an existing project or bring your own and convince your fellow owners to work on your dream.  We are not just employee owned, we're employee led.</p>
 </div>
 <div class="large-4 medium-4 small-12 columns">
-      <p><a href="/license.html">The License</a><br />We are pioneering a new software licensing model, a middle ground between the unlimited creativity of working for free, and the tightly constrained security of a corporate day job.</p>
+      <p><a href="/employee_owned_source_code.html">Employee Owned Source Code</a><br />We are pioneering and exploring new software <a href="/license.html">licensing model</a>, a middle ground between the unlimited creativity of working for free, and the tightly constrained security of a corporate day job.</p>
     </div>
 <div class="large-4 medium-4 small-12 columns">
-      <p><a href="/category/projects.html">The Projects</a><br />Our first team project, <a href="/goalboost.html">Goalboost</a> is a time and billing application written in Python and Flask with a MongoDb backend.  We are actively seeking collaborators for Goalboost, because the goal is to collaborate and ship something, but we're also open to other project ideas.
+      <p><a href="/category/projects.html">The Projects</a><br />Our first team project, <a href="/goalboost.html">Goalboost</a> is a time and billing application being with a middle tier of Python 3 and Flask, with MongoDb on the back and AngularJS on the front. We are actively seeking collaborators.
     </div>
 </div>
 
