@@ -20,10 +20,11 @@ table tr th, table tr td {padding:.5em; border-spacing:0em;}
 </style>
 
 <table>
-<tr><td class="topic_column">Project Source</td><td><a href="https://github.com/CodeSolid/Goalboost">https://github.com/CodeSolid/Goalboost</a>.</td></tr>
+<tr><td class="topic_column">The Web Site (Alpha)</td><td><a href="http://goalboost.com">Goalboost.com</a></td></tr>
+<tr><td class="topic_column">Project Source</td><td><a href="https://github.com/CodeSolid/Goalboost">https://github.com/CodeSolid/Goalboost</a></td></tr>
 <tr><td class="topic_column">Development Status</td><td>Pre-alpha.  Type type type.</td></tr>
 <tr><td class="topic_column">Roadmap</td><td><a href="/goalboost_roadmap.html">Goalboost roadmap</a></td></tr>
 <tr><td class="topic_column">How to Contribute / Learn More</td><td>Contact John Lockwood on <a href="https://github.com/JohnLockwood">Github</a> or <a href="http://twitter.com/JohnLockwood">Twitter</a>. Or call me at (916) 359-9218.</td></tr>
-<tr><td class="topic_column">Hours Logged to Date</td><td>Just over 100. See <a href="https://raw.githubusercontent.com/CodeSolid/Goalboost/master/docs/hours.json">detailed hours</a>. This is about 5% of the total we expect to make the production commercially viable.</td></tr>
+<tr><td class="topic_column">Hours Logged to Date</td><td>124 and counting. See <a href="https://raw.githubusercontent.com/CodeSolid/Goalboost/master/docs/hours.json">detailed hours</a>. This just over about 5% of the total we expect to make the production commercially viable.</td></tr>
 </table>
 
