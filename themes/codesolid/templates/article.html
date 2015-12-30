@@ -1,8 +1,7 @@
 {% extends "base.html" %}
-
+{% set pagetitle = article.title %}
 {% block content %}
-<article>
-	<h1 class="title_offset">{{ article.title }}</h1>
+<article>	
 	{{ article.content }}
 	<hr/>
 	<h6>Written by <a href="{{ SITEURL }}/author/{{ article.author|lower|replace(' ', '-') }}.html">{{ article.author }}</a> {% if article.category %}in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category}}</a> {% endif %}on {{ article.locale_date }}.{% if article.tags|count > 0 %} Tags: {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>, {% endfor %}{% endif %}</h6>

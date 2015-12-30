@@ -9,7 +9,6 @@ category: Employee Owned Software
 excerpt:  This early draft of what I envisioned as an employee owned software company discussed a software services model, with SasS as something of an afterthought.  
 
 ParticleWave is currently being organized as startup employee owned cooperative, owned and controlled exclusively by its employees.
-
  
 
 This document is a **DRAFT **of how that might look – based on one founder’s take on how we might be organized and do business. If others are interested and committed to this idea, then we should probably get together weekly or something and go through [this process](http://www.cccd.coop/info/starting_operating_a_coop).
@@ -128,23 +127,14 @@ All other company affairs will be decided at a company meeting to be held at reg
 
 **Further Reading**
 
- 
-
-    
-[What is an Employee Owned Cooperative](http://www.community-wealth.org/_pdfs/articles-publications/coops/article-logue.pdf).       
-This article is an excellent introduction to how Employee Owned Cooperatives may be structured.
-
- 
 
 [U.S. Federation of Worker Cooperatives](http://www.usworker.coop/front)       
 Organization consisting of member companies organized as cooperatives. 
-
  
 
 [The Rochdale Prinicples](http://en.wikipedia.org/wiki/Rochdale_Principles)       
 A core set of principles and values that many co-op organizations follow.
 
- 
 
 [California Center for Cooperative Development](http://www.cccd.coop/)       
 State analog to the US Federation of Worker Cooperatives. There’s a lot of good information here including an introduction to [Worker Owned Co-Operatives](http://www.cccd.coop/info/types_of_coops/worker_coops).       
@@ -152,5 +142,3 @@ State analog to the US Federation of Worker Cooperatives. There’s a lot of goo
 [National Center for Employee Ownership](http://www.nceo.org)       
 A detailed resource of information we may need going forward.       
      
-[Ronin Tech Collective](http://www.ronincollective.com/).       
-A Vermont web development software company organized as an Employee Owned Cooperative
