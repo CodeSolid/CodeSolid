@@ -1,15 +1,23 @@
-Title: 		The Vision
-URL:		vision
-save_as:	vision.html
+Title: Employee Owned Source - A New Model of Software Collaboration
+Author: John Lockwood
+Date: 2016-02-20 20:47
+Slug: employee_owned_source_a_new_model
+Excerpt: About
 
-Employee owned source occupies a middle ground between our day jobs and what was formerly
-the only large-scale alternative, working for free on open source projects.  Yet I believe that starting this thing will be no easy task, because of a certain mental block we all have.  I know I have it.  And I suspect you have it too. 
+<blockquote>
+<p>TLDR; <br />
+Coop != Open Source<br />
+Equity != Capitalism<br />
+Distributed Development != Open Source
+</blockquote>
+
+Employee owned source occupies a middle ground between our day jobs and what was formerly the only large-scale alternative, working for free on open source projects.  Yet I believe that starting this thing will be no easy task, because of a certain mental block we all have.  I know I have it.  And I suspect you have it too. 
 
 The mental block is simply this:  If someone offers me a job writing software for money, I'm happy to do that.  I love writing software, and I need money for groceries and a Netflix subscription, among other things.  So software for money is no problem for me.
 
 I haven't spent a lot of time on open source projects, but I've contributed a patch here and there.  I don't really like working for free, yet strangely enough, I've worked on many personal projects, often to learn new technologies or polish existing skills.  I learned Ruby on Rails that way, and Spring, not to mention a fair bit of Python (which I'm using on the new non-Spring version of [Goalboost](/goalboost.html)).  I do object to the fact that working for free has now become so *de rigeur* that [it's now used](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) as a criteria to see if one is good enough not to work for free.
 
-Also, I have no particular objection to working for free as long as I'm working for myself, but when someone mentions working "for equity", immediately my spidey sense starts to tingle, and I know I am in the presense of a non-programmer capitalist trying to take advantage of me. You know the guy: "I have an idea, and I know lots of venture capital people".
+Also, I have no particular objection to working for free as long as I'm working for myself, but when someone mentions working "for equity", immediately my spidey sense starts to tingle, and I know I am in the presence of a non-programmer capitalist trying to take advantage of me. You know the guy: "I have an idea, and I know lots of venture capital people".
 
 ## So Here I Am...
 
@@ -22,7 +30,11 @@ Also, I have no particular objection to working for free as long as I'm working 
 
 # I Promised a Vision Didn't I?
 
-Here's an interesting tidbit.  If you work at Apple as a software developer, you're  making, what?  Let's say \$110,000 in the Sacramento area where there's an outpost or two, and let's call it $180,000 in Cupertino.
+Here's an interesting tidbit.  If you work at Apple as a software developer, you're  making, what?  Let's say $100,000 in the Sacramento area where there's an outpost or two, and let's call it $124,000 in Cupertino.  But according to [this article](http://www.forbes.com/sites/cameronkeng/2014/12/18/if-apple-was-a-worker-cooperative-each-employee-would-earn-at-least-403k/#74ab035156cc) from that bastion of Democratic Socialist ideas, Forbes Magazine, if Apple were a worker cooperative, everyone there would be making at least $403,000.
+
+Now I'm not saying that's what we're going to make in the near term.  To be honest I don't think CodeSolid will approach Apple's revenue in the next ten years either -- it took Apple longer than ten years to get there, after all, and as the article points out, Mondragon, the largest employee owned company in the world -- doesn't have their revenue.
+
+What I am saying is that we can work together to create one or more shared SasS products that will make us a decent living, so we can move wherever we want in the world and work together collectively on profitable collective projects.  Open source projects are distributed, there's no reason in the world except our own mental blocks why a commercial product can't be.
 
 
 <!--

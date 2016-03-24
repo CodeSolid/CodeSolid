@@ -25,6 +25,6 @@ table tr th, table tr td {padding:.5em; border-spacing:0em;}
 <tr><td class="topic_column">Development Status</td><td>Pre-alpha.  Type type type.</td></tr>
 <tr><td class="topic_column">Roadmap</td><td><a href="/goalboost_roadmap.html">Goalboost roadmap</a></td></tr>
 <tr><td class="topic_column">How to Contribute / Learn More</td><td>Contact John Lockwood on <a href="https://github.com/JohnLockwood">Github</a> or <a href="http://twitter.com/JohnLockwood">Twitter</a>. Or call me at (916) 359-9218.</td></tr>
-<tr><td class="topic_column">Hours Logged to Date</td><td>124 and counting. See <a href="https://raw.githubusercontent.com/CodeSolid/Goalboost/master/docs/hours.json">detailed hours</a>. This just over about 5% of the total we expect to make the production commercially viable.</td></tr>
+<tr><td class="topic_column">Hours Logged to Date</td><td>About 210.  See the various hours.&lt;name&gt;.json files in our <a href="https://github.com/CodeSolid/Goalboost/tree/master/docs">docs directory</a>. When we started the project we thought we were 2,000 hours to revenue, so that means we're 10% done (assuming we were right about the estimate).</td></tr>
 </table>
 

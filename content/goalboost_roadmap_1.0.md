@@ -22,11 +22,8 @@ Sprint one is almost over?  Wow, time flies when you're tracking it using a comb
 Here's what we worked on in [Sprint 1](/goalboost_sprint_1.html).
 
 ## Sprint 2 - *We Love Users - Customers Who Can't Pay Yet*
-We already have some very basic Flask-Security based authentication coded. By the end of this sprint we'll have:
 
-- Non-single-user user account creation in place.
-- Basic user management -- add and delete new non-admin users to account.
-- Token based security for the rest endpoints (management for these may come later).
+Sprint 2 is in progress.  Here are some [working notes on Sprint 2](/goalboost_sprint_2.html)
 
 ## Sprint 3 - *Timers Need a Home -- Invoices and Projects*
 * Models and testing for invoices and projects.

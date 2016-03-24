@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -26,8 +25,8 @@ AUTHOR_FEED_RSS = None
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
-
-MENUITEMS = [("Projects", "/category/projects.html"), ("The License", "/license.html"), ("Contribute", "/contribute.html"), ("Blog", "/blog.html")]
+# ("Sacramento Tech Coop (Meetup)", "/sacramento_tech_coop.html"),
+MENUITEMS = [("Projects", "/goalboost.html"), ("The License", "/license.html"), ("Contribute", "/contribute.html"), ("Foundations", "/foundations.html"), ("Blog", "/blog.html") ]
 
 GITHUB_URL = 'https://github.com/CodeSolid'
 TWITTER_URL = 'https://twitter.com/JohnLockwood'

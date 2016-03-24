@@ -1,0 +1,16 @@
+Title: 		Foundations of Employee Owned Source Code
+URL:		foudations
+save_as:	foundations.html
+
+*"manifesto"* -- from the latin *manifestus*, which means "obvious"
+
+* The value of software is only financed and appropriated by the capitalists who have historically funded it, it is not created by them. Software value is created by developers, artists, designers, testers, and others who directly create the intellectual property that capitalists can only hire. We call these latter developers and others the software makers.
+* Open source has demonstrated the feasibility of collaborative, remote software development on projects varying in complexity -- from simple scripts and utilities to full development frameworks and operating systems.
+* Unfortunately, open source also often carries with it exactly the wrong pricing model from a software maker point of view. The "free as in speech" versus "free as in beer" arm-waving notwithstanding, open source has more often than not brought with it a pricing model of "Click Here to Download".
+* As great software consumers themselves, software makers have embraced "free as in beer" as though it meant "free as in speech", without giving much consideration to the possible consequences of this pricing model to their livelihoods.
+* Seen from the perspective of employee owned source code, open source is "free as in slavery". Of course, it is not as cruel as slavery, as thousands of hapless developers willingly install the shackles on themselves.
+* Nevertheless, our colleagues are adults. They who have spent countless hours on projects the value of which they set at zero are not entitled to complain when others drink the free beer without helping the brewery run. To them we say, "Thanks for the free beer. We're using it to lubricate the machinery of our commercial brewery across the street."
+* They respond, "Well, what if everybody did that?" Our answer to them: "Simple, we'll all get paid more. What did you think would happen?" The irony of this existentialist argument coming from skilled craftsmen who've chosen to work for free has been lost on most people. We call it out.
+* In the 19th century, workers who realized they could not afford the means of production banded together in trade unions to strike for better wages.
+* In the 21st century, we makers of software carry the means of production with us in the wetware between our ears. The costs of computers and software are insignificant compared to our investments in time and training. A software maker working for a capitalist can fully equip herself for one-to-two weeks' salary. We use open source tools and commercial tools indifferently, according to whether they suit our purposes.
+* Open source has taught us to work together toward common ends. It taught us that good software can be started and sustained without capitalist financing. It gave us tools for massive collaboration at a distance. The one thing it cannot teach us is to stand up for our dignity as independent makers and price the fruits of our labor accordingly. That's something we'll have to teach ourselves.
