@@ -1,3 +1,4 @@
+*.pid
 **/workspace.xml
 deploy_sourceme
 output/

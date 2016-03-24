@@ -1,7 +1,7 @@
 Title: Employee Owned Source - A New Model of Software Collaboration
 Author: John Lockwood
 Date: 2016-02-20 20:47
-Slug: employee_owned_source_a_new_model
+Slug: about_codesolid
 Excerpt: About
 
 <blockquote>
